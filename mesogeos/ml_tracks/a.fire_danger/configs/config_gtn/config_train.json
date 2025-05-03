@@ -16,7 +16,7 @@
     "dataset": {
         "type": "FireDataset",
         "args":{
-            "dataset_root": "",
+            "dataset_root": "/content/drive/MyDrive/m/mesogeos_copy/ml_tracks/a.danger_forecasting/",
             "problem_class": "classification",
             "nan_fill": 0,
             "neg_pos_ratio": 2,
